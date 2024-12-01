@@ -1,17 +1,31 @@
 <p align="center">
   <a href="https://elie.deletang.dev/">
-    <img src="https://elie.deletang.dev/tron2.jpg" width="4800">
+    <img src="https://elie.deletang.dev/tron2.jpg" width="800">
   </a>
 </p>
 
-<p align="center">
+<!-- Première ligne de 3 cartes -->
+<div align="center">
   <a href="https://github.com/tetelie/jeu_devinette">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="300">
   </a>
-</p>
+  <a href="https://github.com/tetelie/jeu_devinette">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="300">
+  </a>
+  <a href="https://github.com/tetelie/jeu_devinette">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="300">
+  </a>
+</div>
 
-<p align="center">
+<!-- Deuxième ligne de 3 cartes -->
+<div align="center">
   <a href="https://github.com/tetelie/jeu_devinette">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="300">
   </a>
-</p>
+  <a href="https://github.com/tetelie/jeu_devinette">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="300">
+  </a>
+  <a href="https://github.com/tetelie/jeu_devinette">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="300">
+  </a>
+</div>
