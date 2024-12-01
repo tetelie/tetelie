@@ -7,10 +7,10 @@
 <!-- Première ligne de 3 cartes -->
 <div align="center">
   <a href="https://github.com/tetelie/jeu_devinette">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="440">
   </a>
   <a href="https://github.com/tetelie/jeu_devinette">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="440">
   </a>
 </div>
 
