@@ -1,5 +1,5 @@
 [![TRON](https://elie.deletang.dev/tron2.jpg)](https://elie.deletang.dev/)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=onedark)](https://github.com/tetelie/jeu_devinette)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=onedark)](https://github.com/tetelie/jeu_devinette)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=onedark)](https://github.com/tetelie/jeu_devinette)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=dark)](https://github.com/tetelie/jeu_devinette)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=merko)](https://github.com/tetelie/jeu_devinette)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=gruvbox)](https://github.com/tetelie/jeu_devinette)
 
