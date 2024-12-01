@@ -1,1 +1,1 @@
-[![TRON](https://elie.deletang.dev/github.jpg)](https://elie.deletang.dev/)
+[![TRON](https://elie.deletang.dev/tron.jpg)](https://elie.deletang.dev/)
