@@ -1,4 +1,4 @@
-[![Texte alternatif de l'image]([URL_de_l'image](https://elie.deletang.dev/github.jpg))]([URL_du_lien](https://elie.deletang.dev/))
+[![Texte alternatif de l'image](https://elie.deletang.dev/github.jpg)](https://elie.deletang.dev/)
 
 
 
