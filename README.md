@@ -24,9 +24,6 @@
   </a>
 </div>
 
-### Langages que je connais :
-
-### Langages que je connais :
 
 <p align="center">
   <!-- C -->
