@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<br><br/>
+
 <!-- Première ligne de 3 cartes -->
 <div align="center">
   <a href="https://github.com/tetelie/jeu_devinette" style="padding: 20px;">
