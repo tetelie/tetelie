@@ -26,9 +26,13 @@
 
 ### Langages que je connais :
 
+### Langages que je connais :
+
 <p align="center">
   <!-- C -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <!-- HTML -->
@@ -65,5 +69,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <!-- OCaml -->
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge" alt="OCaml">
+  <!-- Rust -->
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
+
 
