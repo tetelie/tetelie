@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/tetelie/jeu_devinette">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="2400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="400">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/tetelie/jeu_devinette">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="2400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=jeu_devinette&theme=tokyonight" width="400">
   </a>
 </p>
