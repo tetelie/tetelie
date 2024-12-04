@@ -21,7 +21,7 @@
   <a href="https://github.com/tetelie/Hashimiste" style="padding: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=Hashimiste&theme=tokyonight" width="420">
   </a>
-  <a href="https://github.com/tetelie/jeu_devinette" style="padding: 20px;">
+  <a href="https://github.com/tetelie/Rust" style="padding: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=RUST&theme=tokyonight" width="420">
   </a>
 </div>
