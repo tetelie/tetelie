@@ -67,9 +67,7 @@
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <!-- OCaml -->
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge" alt="OCaml">
-  <!-- OCaml -->
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge" alt="OCaml">
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge"logoColor="green" alt="OCaml">
   <!-- Coq -->
   <img src="https://img.shields.io/badge/Coq-EF394B?style=for-the-badge&logo=coq&logoColor=white" alt="Coq">
   <!-- Rust -->
