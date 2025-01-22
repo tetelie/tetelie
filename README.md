@@ -9,7 +9,7 @@
 <!-- Première ligne de 3 cartes -->
 <div align="center">
   <a href="https://github.com/tetelie/station_meteo" style="padding: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=tetelie&theme=tokyonight" width="420">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=station_meteo&theme=tokyonight" width="420">
   </a>
   <a href="https://github.com/tetelie/Jeu-de-la-vie" style="padding: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetelie&repo=Jeu-de-la-vie&theme=tokyonight" width="420">
