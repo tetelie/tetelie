@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://elie.deletang.dev/">
-    <img src="https://elie.deletang.dev/tron2.jpg" width="1080">
-  </a>
-</p>
 
 <br><br/>
 
